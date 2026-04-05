@@ -88,9 +88,8 @@ jupyter notebook part1_grade_tracker.ipynb
 
 ## 👩‍💻 Author
 
-**Your Name**  
-[GitHub](https://github.com/your-username) • [LinkedIn](https://linkedin.com/in/your-profile)
-
+**Spoorthi M**  
+**Student_id : bitsom_ba_2511762**
 ---
 
 ## 📄 License
